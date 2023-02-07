@@ -1,4 +1,4 @@
-package calculator;
+
 import java.rmi.Naming;
 
 public class CalculatorClient {
