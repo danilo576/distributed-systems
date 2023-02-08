@@ -30,7 +30,7 @@ public class HotelManagerImpl extends UnicastRemoteObject implements HotelManage
    * Method to find a room based on maximum price and number of beds.
    * @param maxPrice the maximum price for the room.
    * @param numBeds the number of beds required in the room.
-   * @return the room that matches the criteria.
+   * @return the room that matches the criteria, null otherwise.
    * @throws RemoteException
    */
   public Room findRoom(int maxPrice, int numBeds) throws RemoteException {
