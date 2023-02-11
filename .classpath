@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="Calculator"/>
 	<classpathentry kind="src" path="Hotel"/>
 	<classpathentry kind="src" path="Exams"/>
+	<classpathentry kind="src" path="Whiteboard"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
